@@ -6,7 +6,7 @@
 > Easily send emails just by adding an array of emails
 
 
-## Instructions to run the program
+## Instructions to run the program for beginners
 ```
 $ git clone https://github.com/CodeChefVIT/SendGrid-Mailer
 $ cd SendGrid-Mailer
